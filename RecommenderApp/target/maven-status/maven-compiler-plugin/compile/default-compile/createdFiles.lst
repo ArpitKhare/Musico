@@ -1,0 +1,8 @@
+com/sjsu/edu/RecommenderApp/Recommend.class
+environementconditions/OpenWeather.class
+com/sjsu/edu/RecommenderApp/App.class
+com/sjsu/edu/RecommenderApp/UserIDGenerator.class
+com/sjsu/edu/RecommenderApp/GenerateData.class
+controller/AppController.class
+com/sjsu/edu/RecommenderApp/App$1.class
+com/sjsu/edu/RecommenderApp/ReadWriteDataInFile.class
